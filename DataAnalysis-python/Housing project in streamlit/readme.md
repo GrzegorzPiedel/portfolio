@@ -67,5 +67,6 @@ df = pd.read_csv('Housing.csv')
 ```bash
 pip install statsmodels
 ```
-**Author**
+---
+Author
 Grzegorz Piedel
