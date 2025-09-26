@@ -26,7 +26,7 @@ Data source: Kaggle [Housing Prices Dataset](https://www.kaggle.com/datasets/yas
 1. Clone the repository:
 ```bash
 git clone <YOUR_REPO_URL>
-cd <REPO_FOLDER>
+cd <REPO_FOLDER>```
 
 2. Create a virtual environment:
 python -m venv venv
