@@ -23,18 +23,18 @@ Data source: Kaggle [Housing Prices Dataset](https://www.kaggle.com/datasets/yas
 
 ## Installation
 
-1. Clone the repository:
+**1. Clone the repository:**
 ```bash
 git clone <YOUR_REPO_URL>
 cd <REPO_FOLDER>
 ```
 
-2. Create a virtual environment:
+**2. Create a virtual environment:**
 ```bash
 python -m venv venv
 ```
 
-3. Activate the virtual environment:
+**3. Activate the virtual environment:**
 - Windows:
 ```bash
 venv\Scripts\activate
@@ -45,12 +45,16 @@ venv\Scripts\activate
 source venv/bin/activate
 ```
 
-4. Install dependencies:
+**4. Install dependencies:**
+```bash
 pip install -r requirements.txt
+```
 
 ## Running the App
 Start the Streamlit application:
+```bash
 streamlit run app.py
+```
 
 The dashboard will open in your browser at http://localhost:8501.
 
