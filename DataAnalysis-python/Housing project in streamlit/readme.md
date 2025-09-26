@@ -58,17 +58,14 @@ streamlit run app.py
 
 The dashboard will open in your browser at http://localhost:8501.
 
-Notes
-
-To change the CSV file path, make sure app.py points to the correct location relative to the repository:
-
-df = pd.read_csv('data/Housing.csv')
-
-
-Trendline in scatter plots requires the statsmodels library:
-
+## Notes
+- To change the CSV file path, make sure app.py points to the correct location relative to the repository:
+```python
+df = pd.read_csv('Housing.csv')
+```
+- Trendline in scatter plots requires the statsmodels library:
+```bash
 pip install statsmodels
-
-Author
-
+```
+**Author**
 Grzegorz Piedel
