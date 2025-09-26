@@ -36,6 +36,7 @@ This project focuses on extracting, cleaning, analyzing, and visualizing data fr
 - Build an API or web app for interactive Oscars exploration
 - Create dashboards for dynamic visual analysis
 - Develop ML models to predict future winners
+- Current version does not implement advanced error handling or retry mechanisms. These could be added in the future for better robustness, especially in case of API or network failures
 
 ## How to run
 1. Clone this repository
