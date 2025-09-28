@@ -51,11 +51,7 @@ The following regression models are trained and evaluated:
    git clone <YOUR_REPO_URL>
    cd <REPO_FOLDER>
    ```
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Python script or Jupyter notebook to see the analysis, model evaluation, and visualizations.
+2. Run the Python script or Jupyter notebook to see the analysis, model evaluation, and visualizations.
 
 ## Requirements
 
